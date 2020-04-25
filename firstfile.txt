@@ -1,2 +1,3 @@
 my first git file
 This is my second line
+Today I will call my friends
