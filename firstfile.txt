@@ -1,7 +1,0 @@
-my first git file
-This is my second line
-<<<<<<< HEAD
-Hello on this lovely Saturday
-=======
-Today I will call my friends
->>>>>>> new-test
